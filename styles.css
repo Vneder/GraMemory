@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+div{
+    flex-basis: 15%;
+    flex-grow: 1;
+    height: 33.33vh;
+    border: 4px solid white;
+}
+@media (orientation: portrait) { /* Układ portretowy (Wysokość większa od szerokości)*/
+    div{
+        flex-basis: 30%;
+        height:16.66vh;
+    }
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.saddlebrown{
+    background-color: saddlebrown;
+}
+.purple{
+    background-color: purple;
+}
+.aqua{
+    background-color: aqua;
+}
+.orange{
+    background-color: orange;
+}
+.lime{
+    background-color: lime;
+}
+.hidden{
+    background-color: black;
+}
+.off{
+    background-color: gray;
+}
