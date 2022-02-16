@@ -16,14 +16,14 @@ div{
 @media (orientation: portrait) { /* Układ portretowy (Wysokość większa od szerokości)*/
     div{
         flex-basis: 30%;
-        height:16.66vh;
+        height:16.65vh;
     }
 }
 .red{
     background-color: red;
 }
-.green{
-    background-color: green;
+.thistle{
+    background-color: thistle;
 }
 .blue{
     background-color: blue;
