@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 
 ## Demo
-link: https://vneder.github.io/GraMemory/
+https://vneder.github.io/GraMemory/
 
 ## General info
 * Prosta gra, polegająca na odgadnięciu losowej liczby.
@@ -15,5 +15,6 @@ link: https://vneder.github.io/GraMemory/
 Project is created with:
 * HTML
 * CSS
-* JavaScript
 * (RWD)
+* JavaScript
+
