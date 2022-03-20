@@ -1,20 +1,40 @@
-# MemoryGame
-* [Demp](#Demo)
-* [General info](#general-info)
+<h1 alig="center">
+  <p align="center">
+     MemoryGame
+  </p>
+</h1>
+
+* [Live](#live)
 * [Technologies](#technologies)
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Contact](#contact)
 
-## Demo
-https://vneder.github.io/GraMemory/
+## Live
+<h3> https://vneder.github.io/GraMemory/ </h3>
 
-## General info
-* Prosta gra, polegająca na odgadnięciu losowej liczby.
-* Przy każdej próbie pod polem input pokazuje się licznik naszych prób.
-* Po odgadnięciu liczby pola wyboru blokują się.
-	
 ## Technologies
 Project is created with:
 * HTML
-* CSS
-* (RWD)
+* CSS (RWD)
 * JavaScript
 
+## General info
+* Po otworzeniu strony przez chwilkę widzimy wszystki kolory pod kartami
+* Następnie wszytkie zmieniają kolor na szary
+* Naszym zadaniem jest znalezienie dwóch tych samych kolorów przez kliknięcie
+* Po odkryciu całej strony wyskakuje alert z naszym czasem
+
+## Screenshots
+
+<p align="center">
+  <img src="screen1.jpg" alt="Screenshot1">
+</p>
+
+<p align="center">
+  <img src="screen2.jpg" alt="Screenshot2">
+</p>
+
+## Contact
+* E-mail: lukasz.wozniakowski21@gmail.com
+* LinkedIn: https://www.linkedin.com/in/lukasz-wozniakowski21/
