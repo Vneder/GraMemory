@@ -35,6 +35,10 @@ Project is created with:
   <img src="screen2.jpg" alt="Screenshot2">
 </p>
 
+<p align="center">
+  <img src="screen3.jpg" alt="Screenshot3">
+</p>
+
 ## Contact
 * E-mail: lukasz.wozniakowski21@gmail.com
 * LinkedIn: https://www.linkedin.com/in/lukasz-wozniakowski21/
